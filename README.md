@@ -75,6 +75,21 @@ This enables the robotic arm to perform real-time object handling and pick-and-p
 * Embedded C Programming
 
 ---
+## Project Images
+
+### Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.jpeg)
+
+### Result
+
+![Result](result.jpeg)
+
+### Hardware Setup
+
+![Hardware Setup](hardware_setup.jpeg)
+
+---
 
 ## Applications
 
